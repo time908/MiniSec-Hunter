@@ -1,0 +1,120 @@
+# ========== 云厂商通用 ==========
+accessKeyId
+accessKeySecret
+secretId
+secretKey
+securityToken
+sessionToken
+stsToken
+SecretId
+SecretKey
+
+# ========== 阿里云 OSS ==========
+ossAccessKeyId
+ossAccessKeySecret
+ossBucket
+ossEndpoint
+ossDomain
+
+# ========== 腾讯云 COS ==========
+cosSecretId
+cosSecretKey
+cosBucket
+cosRegion
+cosDomain
+
+# ========== 七牛云 ==========
+qiniuAccessKey
+qiniuSecretKey
+qiniuBucket
+qiniuDomain
+
+# ========== 短信 / 推送 ==========
+smsAccessKey
+smsSecretKey
+smsSignature
+templateCode
+pushAppKey
+pushAppSecret
+umengAppKey
+umengMessageSecret
+jpushKey
+jpushSecret
+
+# ========== 微信支付 ==========
+mchId
+mchSecret
+partnerKey
+apiKey
+apiV3Key
+paySignKey
+wechatPaySerial
+wechatAppId
+wechatAppSecret
+
+# ========== 支付宝 ==========
+alipayPublicKey
+alipayPrivateKey
+rsaPrivateKey
+appCertPath
+alipayRootCertPath
+alipayCertPath
+alipayPublicCertPath
+
+# ========== 数据库 / 缓存 ==========
+dbPassword
+redisPassword
+mysqlPass
+mongoUri
+connectionString
+jdbcUrl
+redisUrl
+redisAuth
+
+# ========== JWT / OAuth ==========
+jwtSecret
+jwtPrivateKey
+oauthClientId
+oauthClientSecret
+clientId
+clientSecret
+redirectUri
+authorizeUrl
+tokenUrl
+
+# ========== 加解密 & 签名 ==========
+aesKey
+aesIv
+salt
+cipherKey
+publicKey
+privateKey
+rsaPrivateKey
+eccPrivateKey
+sm2Key
+sm4Key
+md5Key
+hmacKey
+signType
+signKey
+
+# ========== 地图 ==========
+mapKey
+gaodeKey
+amapKey
+googleApiKey
+baiduMapKey
+tencentMapKey
+
+# ========== 常见弱口令 / 占位 ==========
+123456
+password
+passwd
+pwd
+admin
+root
+test123
+demo
+example
+iloveyou
+qwerty
